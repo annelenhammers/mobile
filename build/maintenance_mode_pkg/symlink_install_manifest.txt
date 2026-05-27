@@ -1,0 +1,16 @@
+/home/disa/RM_prac/install/maintenance_mode_pkg/lib/maintenance_mode_pkg/maintenance_mode
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/ament_index/resource_index/package_run_dependencies/maintenance_mode_pkg
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/ament_index/resource_index/parent_prefix_path/maintenance_mode_pkg
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/environment/ament_prefix_path.sh
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/environment/ament_prefix_path.dsv
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/environment/path.sh
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/environment/path.dsv
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/local_setup.bash
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/local_setup.sh
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/local_setup.zsh
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/local_setup.dsv
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/package.dsv
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/ament_index/resource_index/packages/maintenance_mode_pkg
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/cmake/maintenance_mode_pkgConfig.cmake
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/cmake/maintenance_mode_pkgConfig-version.cmake
+/home/disa/RM_prac/install/maintenance_mode_pkg/share/maintenance_mode_pkg/package.xml

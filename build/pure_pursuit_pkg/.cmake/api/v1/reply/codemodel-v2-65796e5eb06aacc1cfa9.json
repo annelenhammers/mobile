@@ -1,0 +1,260 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-84f54c0efccfa22c08e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				},
+				{
+					"build" : "pure_pursuit_pkg__py",
+					"jsonFile" : "directory-pure_pursuit_pkg__py-8cc51ed3ff91ea7d00b1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/disa/RM_prac/build/pure_pursuit_pkg/pure_pursuit_pkg__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "pure_pursuit_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_pure_pursuit_pkg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_pure_pursuit_pkg_egg-d9ca5108be5f8d6aeaf1.json",
+					"name" : "ament_cmake_python_build_pure_pursuit_pkg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_pure_pursuit_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_pure_pursuit_pkg-b3be42c6dd55bd09c4c9.json",
+					"name" : "ament_cmake_python_symlink_pure_pursuit_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_odom::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_odom-3bb784d2b23a1bb18f4a.json",
+					"name" : "pure_pursuit_odom",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg-a292f464d24a9ab3f639.json",
+					"name" : "pure_pursuit_pkg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__cpp-7d628f97f363067374ce.json",
+					"name" : "pure_pursuit_pkg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "pure_pursuit_pkg__py::@00d75dcc41a1602f2e55",
+					"jsonFile" : "target-pure_pursuit_pkg__py-18c1eda6d5fa74059e1c.json",
+					"name" : "pure_pursuit_pkg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_generator_c-fad8614b70d83c4c61b1.json",
+					"name" : "pure_pursuit_pkg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_generator_py-62ce5d40ab2d704bdb56.json",
+					"name" : "pure_pursuit_pkg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_c-d9c412f9e98221889c87.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_c__pyext-d8b3dceb7526596620a0.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_cpp-eebaa7d97de392caf661.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_fastrtps_c-57aa44397af10634ded1.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_fastrtps_c__pyext-0e98462c445a8441c3ab.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_fastrtps_cpp-fb72a3d33a08a1bacbd1.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_introspection_c-fc8c2a458eb81c063f49.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_introspection_c__pyext-4902fc9082f3d218a9b8.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg__rosidl_typesupport_introspection_cpp-d3f4c8cd3042a97c26c2.json",
+					"name" : "pure_pursuit_pkg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pure_pursuit_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pure_pursuit_pkg_uninstall-d53f0f11586575d28d03.json",
+					"name" : "pure_pursuit_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-66281449a5b1f53d4663.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "waypoint_tools_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-waypoint_tools_lib-56086157e908680ffbc6.json",
+					"name" : "waypoint_tools_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "waypoints_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-waypoints_node-ef09cd0072e3e6cf2cb0.json",
+					"name" : "waypoints_node",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/disa/RM_prac/build/pure_pursuit_pkg",
+		"source" : "/home/disa/RM_prac/src/pure_pursuit_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

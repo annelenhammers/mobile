@@ -1,0 +1,1 @@
+/home/disa/RM_prac/build/navigation_pkg/ament_cmake_core/navigation_pkgConfig.cmake

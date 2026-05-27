@@ -1,0 +1,9 @@
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/uninstall.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/turtlebot3_coppeliasim_uninstall.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/test.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/edit_cache.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/rebuild_cache.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/list_install_components.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/install.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/install/local.dir
+/home/disa/RM_prac/build/turtlebot3_coppeliasim/CMakeFiles/install/strip.dir

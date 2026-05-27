@@ -1,0 +1,23 @@
+[0.638s] Invoking command in '/home/disa/RM_prac/build/turtlebot3_dqn': AMENT_PREFIX_PATH=/home/disa/RM_prac/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/disa/RM_prac/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/disa/RM_prac/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/disa/RM_prac/build/turtlebot3_dqn/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/disa/RM_prac/install/turtlebot3_dqn/lib/python3.10/site-packages:/home/disa/RM_prac/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/disa/RM_prac/build/turtlebot3_dqn/build --no-deps symlink_data
+[0.854s] running develop
+[0.984s] running egg_info
+[0.984s] writing turtlebot3_dqn.egg-info/PKG-INFO
+[0.985s] writing dependency_links to turtlebot3_dqn.egg-info/dependency_links.txt
+[0.985s] writing entry points to turtlebot3_dqn.egg-info/entry_points.txt
+[0.985s] writing requirements to turtlebot3_dqn.egg-info/requires.txt
+[0.985s] writing top-level names to turtlebot3_dqn.egg-info/top_level.txt
+[0.987s] reading manifest file 'turtlebot3_dqn.egg-info/SOURCES.txt'
+[0.988s] writing manifest file 'turtlebot3_dqn.egg-info/SOURCES.txt'
+[0.989s] running build_ext
+[0.989s] Creating /home/disa/RM_prac/install/turtlebot3_dqn/lib/python3.10/site-packages/turtlebot3-dqn.egg-link (link to .)
+[0.990s] Installing action_graph script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.990s] Installing dqn_agent script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.991s] Installing dqn_coppeliasim script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.991s] Installing dqn_environment script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.991s] Installing dqn_gazebo script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.991s] Installing dqn_test script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.992s] Installing result_graph script to /home/disa/RM_prac/install/turtlebot3_dqn/lib/turtlebot3_dqn
+[0.992s] 
+[0.992s] Installed /home/disa/RM_prac/build/turtlebot3_dqn
+[0.992s] running symlink_data
+[1.011s] Invoked command in '/home/disa/RM_prac/build/turtlebot3_dqn' returned '0': AMENT_PREFIX_PATH=/home/disa/RM_prac/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/disa/RM_prac/install/turtlebot3_msgs:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/disa/RM_prac/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/disa/RM_prac/build/turtlebot3_dqn/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/disa/RM_prac/install/turtlebot3_dqn/lib/python3.10/site-packages:/home/disa/RM_prac/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/disa/RM_prac/build/turtlebot3_dqn/build --no-deps symlink_data
